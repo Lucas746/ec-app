@@ -1,0 +1,26 @@
+{
+  "EcFooter": {
+    "description": "Auto imported from components/EcFooter.vue"
+  },
+  "EcHeader": {
+    "description": "Auto imported from components/EcHeader.vue"
+  },
+  "EcPartner": {
+    "description": "Auto imported from components/EcPartner.vue"
+  },
+  "EcPost": {
+    "description": "Auto imported from components/EcPost.vue"
+  },
+  "EcPostCarousel": {
+    "description": "Auto imported from components/EcPostCarousel.vue"
+  },
+  "EcPostImg": {
+    "description": "Auto imported from components/EcPostImg.vue"
+  },
+  "EcProyect": {
+    "description": "Auto imported from components/EcProyect.vue"
+  },
+  "EcProyectImg": {
+    "description": "Auto imported from components/EcProyectImg.vue"
+  }
+}
